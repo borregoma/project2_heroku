@@ -1,0 +1,1 @@
+FLASK_APP=moma/app.py flask run
